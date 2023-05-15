@@ -1,0 +1,8 @@
+#Configuration
+#Mon May 15 09:05:08 CST 2023
+dbhost=localhost
+dbname=carrentsys
+dbpass=root
+dbport=3306
+dbuser=root
+firstuser=false
